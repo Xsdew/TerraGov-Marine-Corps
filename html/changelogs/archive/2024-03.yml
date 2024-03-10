@@ -169,3 +169,6 @@
   - rscadd: Added tank LTA-AP minigun
   ivanmixo:
   - rscdel: Resting is no longer a verb in the IC tab
+2024-03-10:
+  Lumipharon:
+  - qol: Xeno side UI plasma/health icons now also update instantly on change
